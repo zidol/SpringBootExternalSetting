@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "name": "zidol",
+      "type": "me.zidol.springinit.ZidolProperties",
+      "sourceType": "me.zidol.springinit.ZidolProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "zidol.age",
+      "type": "java.lang.Integer",
+      "sourceType": "me.zidol.springinit.ZidolProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "zidol.full-name",
+      "type": "java.lang.String",
+      "sourceType": "me.zidol.springinit.ZidolProperties"
+    },
+    {
+      "name": "zidol.name",
+      "type": "java.lang.String",
+      "sourceType": "me.zidol.springinit.ZidolProperties"
+    },
+    {
+      "name": "zidol.session-timeout",
+      "type": "java.time.Duration",
+      "sourceType": "me.zidol.springinit.ZidolProperties",
+      "defaultValue": "30s"
+    }
+  ],
+  "hints": []
+}
