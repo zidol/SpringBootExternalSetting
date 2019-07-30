@@ -1,5 +1,6 @@
 package me.zidol.springinit;
 
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -38,11 +39,16 @@ public class SampleRunner implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        logger.info("==========================");
-        logger.info(hello);
-        logger.info(zidolProperties.getName());
-        logger.info(zidolProperties.getFullName());
-        logger.info("==========================");
+//        logger.info("==========================");
+//        logger.info(hello);
+//        logger.info(zidolProperties.getName());
+//        logger.info(zidolProperties.getFullName());
+//        logger.info("==========================");
+        logger.debug("==========================");
+        logger.debug(hello);
+        logger.debug(zidolProperties.getName());
+        logger.debug(zidolProperties.getFullName());
+        logger.debug("==========================");
     }
 
 }
