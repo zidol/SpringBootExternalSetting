@@ -1,2 +1,5 @@
 /Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/SpringinitApplication.java
-/Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/SampleListner.java
+/Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/config/BaseConfiguration.java
+/Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/SampleRunner.java
+/Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/ZidolProperties.java
+/Users/zidol/Desktop/sts_workspace/springinit/src/main/java/me/zidol/springinit/config/TestConfiguration.java
