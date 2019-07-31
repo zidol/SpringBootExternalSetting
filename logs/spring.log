@@ -1,0 +1,9 @@
+2019-07-31 01:36:03.950  INFO 8619 --- [main] m.z.s.SpringinitApplication              : Starting SpringinitApplication on zidolsui-MacBook-Pro.local with PID 8619 (/Users/zidol/Desktop/sts_workspace/springinit/target/classes started by zidol in /Users/zidol/Desktop/sts_workspace/springinit)
+2019-07-31 01:36:03.956 DEBUG 8619 --- [main] m.z.s.SpringinitApplication              : Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-31 01:36:03.956  INFO 8619 --- [main] m.z.s.SpringinitApplication              : The following profiles are active: test
+2019-07-31 01:36:04.584  INFO 8619 --- [main] m.z.s.SpringinitApplication              : Started SpringinitApplication in 1.009 seconds (JVM running for 1.607)
+2019-07-31 01:36:04.585 DEBUG 8619 --- [main] m.z.s.SampleRunner                       : ==========================
+2019-07-31 01:36:04.585 DEBUG 8619 --- [main] m.z.s.SampleRunner                       : hello test
+2019-07-31 01:36:04.592 DEBUG 8619 --- [main] m.z.s.SampleRunner                       : zidol test
+2019-07-31 01:36:04.592 DEBUG 8619 --- [main] m.z.s.SampleRunner                       : zidol test Ahn
+2019-07-31 01:36:04.592 DEBUG 8619 --- [main] m.z.s.SampleRunner                       : ==========================

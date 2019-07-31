@@ -1,6 +1,0 @@
-META-INF/spring-configuration-metadata.json
-me/zidol/springinit/SampleRunner.class
-me/zidol/springinit/config/TestConfiguration.class
-me/zidol/springinit/ZidolProperties.class
-me/zidol/springinit/SpringinitApplication.class
-me/zidol/springinit/config/BaseConfiguration.class
